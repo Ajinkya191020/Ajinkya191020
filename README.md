@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ajinkya Shingate. Data Analyst with 4 years of professional experience <br>including 1.5+ years in data analytics. Skilled in SQL, Power BI, and Advanced Excel <br>for data cleaning, analysis, and dashboard development. Experienced in <br>transforming large datasets into actionable insights, automating reports, <br>and supporting data-driven business decisions.<br><br>Skilled in SQL, Power BI, and Advanced Excel for data cleaning, analysis, and dashboard development. Experienced in transforming large datasets into actionable insights, automating reports, and supporting data-driven business decisions.
+I am Ajinkya Shingate. Data Analyst with 4 years of professional experience in data analytics. Skilled in SQL, Power BI, and Advanced Excel <br>for data cleaning, analysis, and dashboard development. Experienced in <br>transforming large datasets into actionable insights, automating reports, <br>and supporting data-driven business decisions.<br><br>Skilled in SQL, Power BI, and Advanced Excel for data cleaning, analysis, and dashboard development. Experienced in transforming large datasets into actionable insights, automating reports, and supporting data-driven business decisions.
 
 
 # 💻 Tech Stack:
